@@ -1,0 +1,3 @@
+name: Orelite
+version: ${project.version}
+main: com.example.orelite.Orelite
