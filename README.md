@@ -9,7 +9,7 @@ basic|基本的插件
 command|实现命令处理
 event|实现事件监听
 ormlite|包含了ORMLITE框架，可以进行数据库操作
-stang|标准插件，包含了ormlite框架和常用前置
+stand|标准插件，包含了ormlite框架和常用前置
 
 ## 使用方法
 克隆本仓库，然后选择一个适合的脚手架，复制到你的项目文件夹。
