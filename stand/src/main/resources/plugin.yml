@@ -1,0 +1,8 @@
+name: Stand
+version: ${project.version}
+main: com.example.stand.Stand
+depend: []
+softdepend: [Vault,PlaceholderAPI]
+commands:
+  cmd1:
+    usage: /<command>
