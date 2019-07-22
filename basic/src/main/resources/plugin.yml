@@ -1,0 +1,3 @@
+name: Basic
+version: ${project.version}
+main: com.example.basic.Basic
