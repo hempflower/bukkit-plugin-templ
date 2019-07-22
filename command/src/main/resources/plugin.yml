@@ -1,0 +1,11 @@
+name: Command
+version: ${project.version}
+main: com.example.command.Command
+commands:
+  excmd:
+    usage: /excmd
+    description: An example command.
+    permission: example.use
+permissions:
+  example.use:
+    default: true
